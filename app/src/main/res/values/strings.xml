@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BebidasSpinner</string>
+    <string name="correcto">Correcto</string>
+    <string name="incorrecto">Incorrecto</string>
+    <string-array name="bebidas">
+        <item>Bebida A</item>
+        <item>Bebida B</item>
+        <item>Bebida C</item>
+    </string-array>
+    <integer-array name="precios">
+        <item>80</item>
+        <item>120</item>
+        <item>310</item>
+    </integer-array>
+</resources>
